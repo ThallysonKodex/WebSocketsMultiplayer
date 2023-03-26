@@ -3,9 +3,8 @@ This is a small Web Application, SPA game (not feature-worthy) that I made using
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmRkZWRlMTMxNzBjYTc1ZWYzNTU2ZWZmOWVkNzg0ZDUzMTI0NmM0YiZjdD1n/4swUgPVxy3FYq63DEI/giphy.gif">
 
-<ol>
-  <li>
-    Start the server.
+
+    1. Start the server.
     ```
     cd server
     npm start
@@ -15,11 +14,7 @@ This is a small Web Application, SPA game (not feature-worthy) that I made using
     cd server
     node start.js
     ```
-  </li>
-  <li>
-    Start the Client in a local live server
-  </li>
-  <li>
-    Enjoy the creation.
-  </li>
-</ol>
+
+    2. Start the Client in a local live server
+
+    3. Enjoy the creation.
