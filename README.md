@@ -6,7 +6,7 @@ This is a small Web Application, SPA game (not feature-worthy) that I made using
 
 1. CD into server folder
     ``` cd server ```
-2. Start the server.
+2. Start the server
     ``` npm start ``` or ``` node start.js ```
 3. Run the client in a local live server
 4. Enjoy the creation!
